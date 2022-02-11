@@ -8,4 +8,4 @@ I'm well versed in NodeJS, Python, Ruby, Swift, C/C++, MongoDB, and Svelte with 
 
 **Projects I'm planning:**
 - **Outreach**, a web application for social things like surveys, forms, etc. that can be attached to actions on the backend.
-- **CodePlaygrounds**, a web-pased playground app code
+- **CodePlaygrounds**, a web-pased playground app for code
