@@ -1,5 +1,5 @@
 # Hello, world! 👋
-I'm a 16 y/o student and hobbyist developer, and I'm questionably attracted to the Information Superhighway.
+Student, hobbyist developer, questionably attracted to the [Information Superhighway](https://en.wikipedia.org/wiki/Information_superhighway).
 
 
 I'm constantly learning how I can change user experience by making boring things fun to do. 
